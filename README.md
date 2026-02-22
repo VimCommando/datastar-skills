@@ -19,6 +19,11 @@ From this repository root (`/Users/reno/Development/datastar-skills`), install t
 
 Codex reads skills from `$CODEX_HOME/skills` (default: `~/.codex/skills`).
 
+From the Codex App you can use the `skill-installer` skill:
+```
+$skill-installer install https://github.com/VimCommando/datastar-skills/datastar
+```
+
 ```bash
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 cp -R datastar "${CODEX_HOME:-$HOME/.codex}/skills/datastar"
