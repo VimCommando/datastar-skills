@@ -24,6 +24,8 @@ From the Codex App you can use the `skill-installer` skill:
 $skill-installer install https://github.com/VimCommando/datastar-skills/datastar
 ```
 
+Or manually after cloning the repository:
+
 ```bash
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 cp -R datastar "${CODEX_HOME:-$HOME/.codex}/skills/datastar"
