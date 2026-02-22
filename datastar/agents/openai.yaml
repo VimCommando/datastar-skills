@@ -1,0 +1,3 @@
+display_name: Datastar
+short_description: Build Datastar apps with strong signal design and frontend attribute patterns
+default_prompt: Implement or refine this Datastar feature with clear signal flow, concise data-* expressions, and backend-driven SSE updates. Load language-specific references as needed.
