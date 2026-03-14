@@ -1,0 +1,4 @@
+display_name: Datastar
+short_description: Build Datastar apps with backend-driven SSE, minimal signals, and morphing-first DOM updates
+default_prompt: |
+  Apply the Datastar Tao as strict agent defaults: keep state in the backend, prefer fat-morph SSE responses over fine-grained signal management, and use signals only for user interactions and form binding. Treat "Agent default:" entries in the skill as non-negotiable unless a concrete requirement forces an exception — justify any deviation explicitly. Before writing backend code, load the language-specific reference from references/ that matches this project's backend language.

@@ -77,7 +77,7 @@ When using CQRS, agent default: manually show a loading indicator when backend r
 
 ```
 ┌─────────────┐                    ┌──────────────┐
-│   Browser   │                    │  Go Backend  │
+│   Browser   │                    │   Backend    │
 │             │                    │              │
 │  Datastar   │ ◄─── SSE Stream ───┤  HTTP Handler│
 │  (signals)  │      (HTML/State)  │              │
@@ -525,11 +525,11 @@ This skill focuses on the core, open-source framework available under the MIT li
 - **Official Docs**: https://data-star.dev
 - **Go SDK**: https://pkg.go.dev/github.com/starfederation/datastar-go
 - **GitHub**: https://github.com/starfederation/datastar
-- **CDN**: https://cdn.jsdelivr.net/npm/@sudodevnull/datastar
+- **CDN**: https://cdn.jsdelivr.net/gh/starfederation/datastar@v1.0.0-RC.8/bundles/datastar.js
 
 ---
 
 ## Version Info
 
-- **Datastar**: v1.0.0-RC.7
+- **Datastar**: v1.0.0-RC.8
 - **License**: MIT (core framework)
