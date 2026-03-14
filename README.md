@@ -13,7 +13,7 @@ For best results you may want to include your project's backend language in your
 
 ## Installation
 
-From this repository root (`/Users/reno/Development/datastar-skills`), install the `datastar` skill into your agent's skills directory.
+After cloning this repository, install the `datastar` skill into your agent's skills directory from the repository root.
 
 ### Codex
 
@@ -21,7 +21,7 @@ Codex reads skills from `$CODEX_HOME/skills` (default: `~/.codex/skills`).
 
 From the Codex App you can use the `skill-installer` skill:
 ```
-$skill-installer install https://github.com/VimCommando/datastar-skills/datastar
+$skill-installer install https://github.com/VimCommando/datastar-skills --path datastar
 ```
 
 Or manually after cloning the repository:
