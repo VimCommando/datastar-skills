@@ -69,4 +69,4 @@ Restart OpenCode after installing.
 
 ## References
 
-Built from https://gist.github.com/njreid/29032a171ec88c4fe8da1b09e2bac196
+Forked from https://gist.github.com/njreid/29032a171ec88c4fe8da1b09e2bac196
