@@ -1093,34 +1093,3 @@ func Handler(w http.ResponseWriter, r *http.Request) {
     `)
 }
 ```
-
----
-
-## Pro Features
-
-Datastar offers **Pro features** under a commercial license, which include:
-
-- `data-persist` - Persist signals to localStorage/sessionStorage
-- `data-query-string` - Sync signals with URL query parameters
-- `data-animate` - Declarative animations
-- `@clipboard` - Clipboard operations
-- Additional tooling and support
-
-This prompt focuses on the core, open-source framework available under the MIT license.
-
----
-
-## Reference Links
-
-- **Official Docs**: https://data-star.dev
-- **Go SDK**: https://pkg.go.dev/github.com/starfederation/datastar-go
-- **GitHub**: https://github.com/starfederation/datastar
-- **CDN**: https://cdn.jsdelivr.net/npm/@sudodevnull/datastar
-
----
-
-## Version Info
-
-- **Datastar**: v1.0.0-RC.6
-- **Go SDK**: Requires Go 1.24+
-- **License**: MIT (core framework)

@@ -625,11 +625,10 @@ let hide = RemoveElement::new("#toast-123");
 
 ## Reference Links
 
-- Datastar Rust SDK repo: <https://github.com/starfederation/datastar-rust>
-- Datastar Rust docs: <https://docs.rs/datastar/latest/datastar/>
-- Datastar website/docs: <https://data-star.dev>
+- [Datastar Rust SDK repo](https://github.com/starfederation/datastar-rust)
+- [Datastar Rust docs](https://docs.rs/datastar/latest/datastar/)
+- [Datastar website/docs](https://data-star.dev)
 
 ## Version Info
 
 - This reference targets the `datastar` Rust crate API documented at docs.rs.
-- Confirm API names against the currently installed crate version in your project.

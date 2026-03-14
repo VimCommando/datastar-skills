@@ -543,11 +543,10 @@ ServerSentEventGenerator.stream(req, res, (stream) => {
 
 ## Reference Links
 
-- Datastar TypeScript SDK repo: <https://github.com/starfederation/datastar-typescript>
-- Datastar TypeScript package: <https://www.npmjs.com/package/@starfederation/datastar-sdk>
-- Datastar docs/site: <https://data-star.dev>
+- [Datastar TypeScript SDK repo](https://github.com/starfederation/datastar-typescript)
+- [Datastar TypeScript package](https://www.npmjs.com/package/@starfederation/datastar-sdk)
+- [Datastar docs/site](https://data-star.dev)
 
 ## Version Info
 
 - This reference targets the TypeScript SDK API documented in the official `datastar-typescript` repository README and npm package.
-- Confirm exact options against the SDK version installed in your project.
