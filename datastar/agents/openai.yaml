@@ -1,3 +1,4 @@
 display_name: Datastar
-short_description: Build Datastar apps with strong signal design and frontend attribute patterns
-default_prompt: Implement or refine this Datastar feature with clear signal flow, concise data-* expressions, and backend-driven SSE updates. Load language-specific references as needed.
+short_description: Build Datastar apps with backend-driven SSE, minimal signals, and morphing-first DOM updates
+default_prompt: |
+  Implement or refine this Datastar feature using the Datastar Tao as strict defaults: keep state in the backend, prefer morphing-first SSE updates, and use signals sparingly for interaction and form binding. Load `references/frontend.md` for `data-*` usage and load the language-specific backend reference before writing handlers.

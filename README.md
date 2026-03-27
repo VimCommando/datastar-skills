@@ -4,10 +4,7 @@ An [agent skill specification](https://agentskills.io/specification) for [Datast
 
 ## About
 
-This repository organizes Datastar guidance using skill's progressive disclosure:
-
-- Core cross-language guidance stays in `SKILL.md`.
-- Language-specific backend implementation details live under `datastar/references/{language}.md`.
+Core Datastar skill covering backend-driven architecture, signal design, `data-*` attribute usage, SSE patterns, and CQRS. Language-specific backend references live under `datastar/references/`.
 
 For best results you may want to include your project's backend language in your prompt or `AGENTS.md` file.
 
